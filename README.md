@@ -1,9 +1,11 @@
-# To Run Project
+# Clone this repository
+$ git clone https://github.com/JsArafath/Kopa-Samsu-Store-main.git
 
-clone the Project
+# Go into the repository
+$ cd firebase-authentication
 
-<!-- run command -->
+# Install dependencies
+$ npm install
 
-## npm install
-
-## npm start
+#Start's development server
+$ npm start
